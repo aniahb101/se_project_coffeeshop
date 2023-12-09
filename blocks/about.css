@@ -7,14 +7,13 @@
   }
   100% {
     opacity: 0;
-    transform: scale(1.5);
+    transform: scale(1.2);
   }
 }
 
 .about {
   background-color: #0a2850;
   color: #ffff;
-  padding: 119px 80px 173px 80px;
   display: flex;
   justify-content: space-between;
   position: relative;
@@ -25,16 +24,18 @@
 .about__content {
   max-width: 660px;
   margin-left: auto;
+  padding: 119px 80px 173px 0px;
 }
 
 .about__title {
-  font-family: "inter", "Times New Roman", serif;
+  font-family: "inter", "Arial", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
   max-width: 251px;
-  margin: 0;
+  margin-top: 100px;
+  margin-left: 80px;
   z-index: 1;
 }
 
@@ -63,5 +64,4 @@
 
 .about__circle_animation_blurred {
   animation: pulsate 1.3s ease-in-out infinite;
-  transform: scale(1.3);
 }
