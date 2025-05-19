@@ -34,7 +34,8 @@ BEM Naming Convention
 
 ![beanery](https://github.com/user-attachments/assets/d6cc5368-8ff1-4fe4-b8c2-f3cf74dccf16)
 
-![beanery](https://github.com/user-attachments/assets/72a9f46c-aaa5-46c9-ad6d-a52d52fceab4)
+
+![beanery](https://github.com/user-attachments/assets/9325bc69-21fd-474b-905d-d1e987226164)
 
 
 
